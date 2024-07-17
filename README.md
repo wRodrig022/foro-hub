@@ -1,5 +1,6 @@
 ## FORO HUB
-Foro Hub es una aplicación diseñada para facilitar la comunicación y discusiones entre usuarios a través de un sistema de foros. Permite a los usuarios crear nuevos temas de discusión, responder a temas existentes y participar activamente en las conversaciones.
+Foro Hub es una aplicación diseñada para facilitar la comunicación y discusiones entre usuarios a través de un sistema de foros. Permite a los usuarios crear nuevos temas de discusión, responder a temas existentes y participar activamente en las conversaciones.  
+![insignia ]([https://tu-repositorio.github.io/images/logo.png](https://cdn1.gnarususercontent.com.br/6/451688/8f9126de-f8e2-4249-8584-a59b91ff928e.png))
 
 ------------
 
